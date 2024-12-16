@@ -3,7 +3,7 @@ using UnityEngine.SceneManagement;
 
 public class SoundSettings : MonoBehaviour
 {
-	public string sceneToLoad = "Sound_Music_Settings";
+	public string sceneToLoad = "lboyd_Final";
 
 
 	public void LoadSounds ()
